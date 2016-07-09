@@ -3,4 +3,6 @@
 .env.php
 .env
 .env~
-vendor
+/vendor
+/node_modules
+/public/storage
